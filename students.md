@@ -3,7 +3,7 @@ Are you passionate about pioneering research and eager to make a difference in t
 
 🧠 Join Our Team
 
-Our data competence center group is dedicated to advancing work in computational, data, and engineering sciences, with a strong focus on epidemiological, clinical, and public health disciplines. We are enthusiastic about translating this knowledge to support groundbreaking health initiatives nationwide in Germany.
+Our data competence center group at the RKI in Berlin is dedicated to advancing work in computational, data, and engineering sciences, with a strong focus on epidemiological, clinical, and public health disciplines. We are enthusiastic about translating this knowledge to support groundbreaking health initiatives nationwide in Germany.
 
 🌟 What We Offer
 - Cutting-edge Work Opportunities: Dive into projects that push the boundaries of science and technology.
