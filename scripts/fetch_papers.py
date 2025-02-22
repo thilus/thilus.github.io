@@ -36,11 +36,21 @@ def fetch_publications(user_id):
 
 if __name__ == "__main__":
     papers = fetch_publications(user_id)
-    # Output as markdown
+    # Group papers by year
+    groups = {}
+    for paper in papers:
+        groups.setdefault(paper['year'], []).append(paper)
+    years = sorted(groups.keys(), key=lambda y: int(y) if y.isdigit() else 0, reverse=True)
+    
+    # Output as markdown with groups and publication counters
     with open("../publications.md", "w", encoding="utf-8") as f:
         f.write("# Publications\n\n")
-        for paper in papers:
-            f.write(f"- [{paper['year']}] {paper['title']}\n")
-            f.write(f"  - Journal: {paper['journal']}\n")
-            f.write(f"  - Authors: {paper['authors']}\n\n")
+        for year in years:
+            group = groups[year]
+            count = len(group)
+            f.write(f"## [{year}] ({count} publication{'s' if count > 1 else ''})\n\n")
+            for idx, paper in enumerate(group, start=1):
+                f.write(f"{idx}. [{paper['year']}] {paper['title']}\n")
+                f.write(f"   - Journal: {paper['journal']}\n")
+                f.write(f"   - Authors: {paper['authors']}\n\n")
     print("Publications list has been generated in publications.md")

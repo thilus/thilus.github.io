@@ -8,6 +8,9 @@ I am a passionate developer with experience in various programming languages and
 ## Publications
 View my publications [here](publications.md).
 
+## Information for interested students/incoming scholars:
+Please find more information who week seek and what we offer [here](students.md)
+
 ## Blog
 Check out my latest blog posts:
 - [Blog Post 1](link-to-blog-post-1)
