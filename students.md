@@ -1,4 +1,4 @@
-# Information for Prospective Students/Postdocs/Visiting Scholars
+# Information for Prospective Students and Visiting Scholars
 Are you passionate about pioneering research and eager to make a difference in the realms of computational biology, data engineering, and public health? If you're creative, analytically gifted, and possess versatile computational skills applicable to data engineering, databases, machine learning, and computational biology, we want to hear from you!
 
 🧠 Join Our Team
