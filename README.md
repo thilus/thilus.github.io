@@ -1,6 +1,6 @@
 # PD Dr. Thilo Muth (PhD)
 
-Head of Division Data Compotence Center at Robert Koch Institute, Berlin, Germany
+Head of Division "Data Compotence Center" at Robert Koch Institute, Berlin, Germany
 Director and Professor
 Lecturer at Free University, Berlin, Germany
 
@@ -29,13 +29,8 @@ I am a passionate advocate for collaboration and open science, believing that sh
 ## Publications
 View my publications [here](publications.md).
 
-## Links
-[BlueSky Profile](https://bsky.app/profile/drmuth.bsky.social)
-[LinkedIn Profile]( 
-
-
-
 ## Contact
-Feel free to reach out to me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](link-to-linkedin-profile).
+Feel free to reach out to me via [BlueSky](https://bsky.app/profile/drmuth.bsky.social)
+or connect with me on [LinkedIn](https://de.linkedin.com/in/thilo-muth-18353319a).
 
 Thank you for visiting my website!
