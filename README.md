@@ -7,7 +7,7 @@ Director and Professor
 Lecturer @ Free University, Berlin, Germany
 
 ## About Me
-🌟 Group Leader and Adjunct Professor 🧑‍🏫
+🧑 Group Leader and Adjunct Professor 
 
 Hello! I'm a dedicated professional with a multifaceted background in Bioinformatics, Data Engineering, Visualization, and Public Health. As a mass spectrometry enthusiast, I dive deep into the world of data and scientific discovery in proteomics, metabolomics, and epidemiology.
 
@@ -15,7 +15,7 @@ Hello! I'm a dedicated professional with a multifaceted background in Bioinforma
 
 Based in vibrant Berlin, I lead collaborative research efforts and foster innovation in my role as a Group Leader. As an Adjunct Professor at Free University Berlin, I mentor the next generation of young scientists, guiding them through the ever-evolving landscape of public health and data science.
 
-📊 Areas of Expertise
+🌟 Areas of Expertise
 - Bioinformatics: Developing algorithms and software tools to analyze and interpret complex biological data.
 - Mass Spectrometry-based Proteomics: Enthusiastically exploring the capabilities and applications of mass spectrometry in proteomics and metabolomics.
 - Public Health & Epidemiology: Improving health outcomes through data-driven insights and research.
