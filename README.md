@@ -9,7 +9,7 @@ Lecturer @ Free University, Berlin, Germany
 ## About Me
 🌟 Group Leader and Adjunct Professor 🧑‍🏫
 
-Hello! I'm a dedicated professional with a multifaceted background in Bioinformatics, Data Engineering & Visualization, and Public Health. As a Mass Spectrometry Enthusiast, I dive deep into the world of data and scientific discovery in proteomics, metaproteomics, and metabolomics.
+Hello! I'm a dedicated professional with a multifaceted background in Bioinformatics, Data Engineering, Visualization, and Public Health. As a mass spectrometry enthusiast, I dive deep into the world of data and scientific discovery in proteomics, metabolomics, and epidemiology.
 
 🔬 My Passion and Mission
 
@@ -30,12 +30,6 @@ View my publications [here](publications.md).
 
 ## Information for interested students/incoming scholars:
 Please find more information about who we seek and what we offer [here](students.md).
-
-## Blog
-Check out my latest blog posts:
-- [Blog Post 1](link-to-blog-post-1)
-- [Blog Post 2](link-to-blog-post-2)
-- [Blog Post 3](link-to-blog-post-3)
 
 ## Contact
 Feel free to reach out to me via [BlueSky](https://bsky.app/profile/drmuth.bsky.social)
