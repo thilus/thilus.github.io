@@ -5,10 +5,8 @@ Welcome to my personal website! Here you will find information about me, my proj
 ## About Me
 I am a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and learning new skills.
 
-## Projects
-- **Project 1**: Description of project 1.
-- **Project 2**: Description of project 2.
-- **Project 3**: Description of project 3.
+## Publications
+View my publications [here](publications.md).
 
 ## Blog
 Check out my latest blog posts:
