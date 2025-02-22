@@ -1,6 +1,10 @@
-# PD Dr. Thilo Muth (PhD)
+<link rel="stylesheet" href="css/style.css">
 
-Head of Division "Data Compotence Center" @ Robert Koch Institute, Berlin, Germany
+<header>
+  PD Dr. Thilo Muth (PhD)
+</header>
+
+Head of Division "Data Competence Center" @ Robert Koch Institute, Berlin, Germany
 
 Director and Professor
 
