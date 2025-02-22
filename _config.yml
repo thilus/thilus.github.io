@@ -1,0 +1,8 @@
+# Site settings
+title: Thilo Muth (PhD)
+author:
+  name: Thilo Muth  
+description: Head of Division of the Data Competence Center at the Robert Koch Institute, Berlin, Germany
+
+# Build settings
+remote_theme: jekyll/minima
