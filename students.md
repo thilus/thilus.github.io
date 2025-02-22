@@ -12,11 +12,12 @@ Our data competence center group at the RKI in Berlin is dedicated to advancing 
 
 💡 Who We're Looking For
 
-If you have a solid background in data engineering, bioinformatics, and programming, and a keen interest in:
+If you have a solid background in data science and programming, and a keen interest in at least one of these areas:
 - Public Health
+- Epidemiology
 - Data Engineering
 - Databases (SQL / NOSQL) 
-- Bioinformatics
+- Bioinformatics 
 
 Then you're just who we need! Bright and hardworking students and visiting scholars are always welcome to join our team. 🚀
 
