@@ -4,7 +4,7 @@ title: Legal Disclosure
 permalink: /legal/
 ---
 
-Legal Disclosure
+Imprint
 ================
 Information in accordance with section 5 TMG
 
