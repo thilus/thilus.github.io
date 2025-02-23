@@ -1,4 +1,4 @@
-Head of Division "Data Competence Center" @ Robert Koch Institute, Berlin, Germany
+Head of Division "Data Competence Center" @ RKI
 
 Director and Professor
 
