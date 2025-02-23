@@ -26,7 +26,7 @@ I am a passionate advocate for collaboration and open science, believing that sh
 ## Publications
 View my publications [here](publications.md).
 
-## Information for interested students/incoming scholars:
+## Student projects:
 Please find more information about who we seek and what we offer [here](students.md).
 
 ## Contact
