@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
 - [2024] The importance of graph databases and graph learning for clinical applications
   - Journal: Database
   - Authors: Daniel Walke and Daniel Micheel and Kay Schallert and Thilo Muth and David Broneske and Gunter Saake and Robert Heyer
